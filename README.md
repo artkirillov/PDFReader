@@ -1,4 +1,4 @@
-<img src="Images/image.png">
+<img src="Images/logo.png">
 
 ## Preview
 <img src="Images/preview.gif" width="300">
