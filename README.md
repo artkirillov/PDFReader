@@ -1,7 +1,5 @@
 <img src="Images/image.png">
 
-PDF reader which you can add to any of you project.
-
 ## Preview
 <img src="Images/preview.gif" width="300">
 <img src="Images/preview2.gif" height="300">
@@ -9,6 +7,7 @@ PDF reader which you can add to any of you project.
 
 
 ## Usage
+You can add this PDF reader to any your project.
 Create a new PDFViewController, pass it a document name and display it like any other view controller. 
 
 ```swift
